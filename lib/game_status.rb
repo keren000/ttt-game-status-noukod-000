@@ -89,6 +89,6 @@ def winner(board)
       end
     end
   else
-    return nil
+    return "Congratulations!"
   end
 end
